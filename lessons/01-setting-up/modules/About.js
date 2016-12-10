@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default React.createClass({
-  render() {
-    return <div>Hello, Angelica!</div>
-  }
+	render() {
+		return <div>About</div>
+	}
 })
